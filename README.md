@@ -46,9 +46,9 @@ This project is currently about a Turn Based Combat system generator that lets p
 Things that have been implemented so far:
 - stat list that lets user create a stat with either an int value or float value
 - condition list that lets the user specify a condition that affects a specified stat in a custom way
+- an Mandatory Animation List for each character
 
 Things that will be implemented soon: 
-- [ ] an Mandatory Animation List for each character
 - [ ] a list of actions with each customizable that can affect specific targets
 - [ ] a state list of the battle gameflow that is set in order
 - [ ] customizable enemy ai that works by giving the action it has and conditions it has to be met for the activation of that action. this is a crude idea of a behaviour tree
