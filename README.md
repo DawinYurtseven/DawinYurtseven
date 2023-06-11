@@ -57,5 +57,8 @@ Things that will be implemented soon:
 
 > **Note** that this project is made with the idea to faster create turn based combats and make it easier to change the game rules without having to code. it is momentarily only a test project for tool programming and to get familiar with the UXML and USS languages for the Unity game engine.
 
+#Other projects
+if you like to see more of what I've done and where I worked on, you can check out my [Itch.io](https://dawinyurtseven.itch.io/) profile.
+
 # How to reach me
 if you like to contact me, you can do so via [LinkedIn](https://www.linkedin.com/in/dawin-yurtseven-1b3097265/) ,[Twitter](https://twitter.com/dawin_yurtseven) and per Email: dawinyurtseven@gmail.com
