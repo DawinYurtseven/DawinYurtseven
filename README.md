@@ -39,24 +39,6 @@ Things that are planned to be implemented soon:
 - [ ] reactive camera for battleflow 
 - [ ] more dynamic UI which takes up less space
 
-
-## System Generator Plug in for Unity
-This project is currently about a Turn Based Combat system generator that lets people that want to create a specified Turn Based Combat system without programming. The generated files will be explained further with docs but the basic idea about this plug-in was meant for artist to work on a game alone without needing to programming such a system themselves. If everything for this system has been implemented properly, thinking about other system generators is more than a possibility.
-
-Things that have been implemented so far:
-- stat list that lets user create a stat with either an int value or float value
-- condition list that lets the user specify a condition that affects a specified stat in a custom way
-- an Mandatory Animation List for each character
-
-Things that will be implemented soon: 
-- [ ] a list of actions with each customizable that can affect specific targets
-- [ ] a state list of the battle gameflow that is set in order
-- [ ] customizable enemy ai that works by giving the action it has and conditions it has to be met for the activation of that action. this is a crude idea of a behaviour tree
-- [ ] stage position for the position of characters on the battle field
-- [ ] parser that will convert this information to two c# files that are ready to use
-
-> **Note** that this project is made with the idea to faster create turn based combats and make it easier to change the game rules without having to code. it is momentarily only a test project for tool programming and to get familiar with the UXML and USS languages for the Unity game engine.
-
 #Other projects
 if you like to see more of what I've done and where I worked on, you can check out my [Itch.io](https://dawinyurtseven.itch.io/) profile.
 
